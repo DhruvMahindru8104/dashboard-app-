@@ -30,6 +30,6 @@
     ".next/types/**/*.ts",
     "app/lib/placeholder-data.ts",
     "scripts/seed.js"
-  ],
+, "app/(login hai yeh)/invoices/layout.js", "app/(dashboard k liye)/dashboard/layout.js"  ],
   "exclude": ["node_modules"]
 }
